@@ -3,13 +3,13 @@
 <img width="100%" height = "250px" src="https://i.imgur.com/ZPAVRqs.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Digital Humans/ > </h1>
+<h1> Hello Fellow < Digital Human/ > </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Andrei-WongE.Andrei-WongE)
 
 </p>
-<div size='20px'> Hi! My name is Andrei Wong Espejo. Thank You for taking the time to view my GitHub Profile ::smile::
+<div size='20px'> Hi! My name is Andrei Wong Espejo. Thanks for taking the time to view my GitHub Profile :smile:
 </div>
 
 <h2> About Me </h2>
@@ -25,8 +25,10 @@
 
 - 💬 Talk to me about Stata, R, Surveys, Sampling, Impact Evaluation, Text as Data, Quantification of Qualitative data, Spatial Data Science, Freelancing Opportunities 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills </h2>
+- 🏋️‍♂️ Project manager with extensive experience in implementation of Impact Evaluations.
 
+- 📈 Social information management, including generation, wrangling, visualization, monitoring, and presentation of data.
 
 
 <h2> Connect with me </h2>
