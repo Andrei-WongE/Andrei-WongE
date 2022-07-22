@@ -14,9 +14,6 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-
 - 🔭 I’m currently working on My Blog, Spatial Data Science Notebook
 
 - 🌱 I’m currently learning CSS, Bayesian Models 
