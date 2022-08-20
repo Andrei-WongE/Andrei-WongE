@@ -31,6 +31,19 @@
 <h2> Connect with me </h2>
 <a href = 'https://www.twitter.com/@Andrei_WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/Andrei-WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+ <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0001-8278-3149"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0001-8278-3149
+ </a>
 
 
 <h2> Stuff I worked on last week  </h2>
