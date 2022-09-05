@@ -31,13 +31,15 @@
 
 <h2> My work </h2>
 Some examples of my work:
+   
 
-   - <a href="https://andrei-wonge.github.io/Spatial_notes/"> Spatial data wrangling and visualization</a>.
-   - <a href="https://github.com/Andrei-WongE/SDG_UIS_indicators_extractor"> Process automatization and functions</a>.
-   - <a href="https://github.com/Andrei-WongE/Randomization_Proyect-C"> Impact evaluation </a>.
-   - <a href="https://github.com/Andrei-WongE/FI_survey_HFC"> Complex sampling survey </a>.
-   - <a href="https://github.com/Andrei-WongE/ENE_ENAHO_workflow"> Visualization </a>.
+   - <a href="https://andrei-wonge.github.io/Spatial_notes/"> Spatial data wrangling and visualization</a>
+   - <a href="https://github.com/Andrei-WongE/SDG_UIS_indicators_extractor"> Process automatization and functions</a>
+   - <a href="https://github.com/Andrei-WongE/Randomization_Proyect-C"> Impact evaluation </a>
+   - <a href="https://github.com/Andrei-WongE/FI_survey_HFC"> Complex sampling survey </a>
+   - <a href="https://github.com/Andrei-WongE/ENE_ENAHO_workflow"> Visualization </a>
 
+ 
 <h2> Connect with me </h2>
 <a href = 'https://www.twitter.com/@Andrei_WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/Andrei-WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
