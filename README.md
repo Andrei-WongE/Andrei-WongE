@@ -14,19 +14,29 @@
 
 <h2> About Me </h2>
 
+- 💬 **Curretly looking for PhD opportunities**
+
 - 🔭 I’m currently working on My Blog, <a href="https://andrei-wonge.github.io/Spatial_notes/">Spatial Data Science Notebook</a>.
 
 - 🌱 I’m currently learning CSS, Bayesian Models 
 
 - 👯 I’m looking to collaborate on Projects, Workshops 
 
-- 💬 Talk to me about Stata, R, Surveys, Sampling, Impact Evaluation, Text as Data, Quantification of Qualitative data, Spatial Data Science, Freelancing Opportunities 
+- 💬 Talk to me about Stata, R, Surveys, Sampling, Impact Evaluation, Text as Data, Quantification of Qualitative data, Spatial Data Science, Freelancing Opportunities
 
 <h2> Skills </h2>
-- 🏋️‍♂️ Project manager with extensive experience in implementation of Impact Evaluations.
+- 🏋️ Project manager with extensive experience in implementation of Impact Evaluations.
 
 - 📈 Social information management, including generation, wrangling, visualization, monitoring, and presentation of data.
 
+<h2> My work </h2>
+Some examples of my work:
+
+   - <a href="https://andrei-wonge.github.io/Spatial_notes/"> Spatial data wrangling and visualization</a>.
+   - <a href="https://github.com/Andrei-WongE/SDG_UIS_indicators_extractor"> Process automatization and functions</a>.
+   - <a href="https://github.com/Andrei-WongE/Randomization_Proyect-C"> Impact evaluation </a>.
+   - <a href="https://github.com/Andrei-WongE/FI_survey_HFC"> Complex sampling survey </a>.
+   - <a href="https://github.com/Andrei-WongE/ENE_ENAHO_workflow"> Visualization </a>.
 
 <h2> Connect with me </h2>
 <a href = 'https://www.twitter.com/@Andrei_WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
