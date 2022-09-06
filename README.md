@@ -31,7 +31,7 @@
 
 <h2> My work </h2>
 Some examples of my work: 
-<p> </p>
+<p>&nbsp;</p>
    - <a href="https://andrei-wonge.github.io/Spatial_notes/"> Spatial data wrangling and visualization</a>
    - <a href="https://github.com/Andrei-WongE/SDG_UIS_indicators_extractor"> Process automatization and functions</a>
    - <a href="https://github.com/Andrei-WongE/Randomization_Proyect-C"> Impact evaluation </a>
