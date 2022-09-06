@@ -26,37 +26,35 @@
 
 <h2> Skills </h2>
 - 🏋️ Project manager with extensive experience in implementation of Impact Evaluations.
-
 - 📈 Social information management, including generation, wrangling, visualization, monitoring, and presentation of data.
 
 <h2> My work </h2>
 Some examples of my work:
-<br><br>
-   - <a href="https://andrei-wonge.github.io/Spatial_notes/"> Spatial data wrangling and visualization</a>
-   - <a href="https://github.com/Andrei-WongE/SDG_UIS_indicators_extractor"> Process automatization and functions</a>
-   - <a href="https://github.com/Andrei-WongE/Randomization_Proyect-C"> Impact evaluation </a>
-   - <a href="https://github.com/Andrei-WongE/FI_survey_HFC"> Complex sampling survey </a>
-   - <a href="https://github.com/Andrei-WongE/ENE_ENAHO_workflow"> Visualization </a>
+<br></br>
+   - <a href="https://andrei-wonge.github.io/Spatial_notes/"> Spatial data wrangling and visualization</a><br>
+   - <a href="https://github.com/Andrei-WongE/SDG_UIS_indicators_extractor"> Process automatization and functions</a><br>
+   - <a href="https://github.com/Andrei-WongE/Randomization_Proyect-C"> Impact evaluation </a><br>
+   - <a href="https://github.com/Andrei-WongE/FI_survey_HFC"> Complex sampling survey </a><br>
+   - <a href="https://github.com/Andrei-WongE/ENE_ENAHO_workflow"> Visualization </a><br>
 
  
 <h2> Connect with me </h2>
 <a href = 'https://www.twitter.com/@Andrei_WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/Andrei-WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+ <a href = 'https://www.linkedin.com/in/andrei-wonge/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a
     id="cy-effective-orcid-url"
     class="underline"
     href="https://orcid.org/0000-0001-8278-3149"
     target="orcid.widget"
     rel="me noopener noreferrer"
-    style="vertical-align: top">
+    style="vertical-align: bottom">
     <img
-        src="https://orcid.org/sites/default/files/images/orcid_32x32.png"
+        src="https://orcid.org/sites/default/files/images/orcid_24x24.png"
         style="width: 1em; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>
       <! -- https://orcid.org/0000-0001-8278-3149 -->
  </a>
- <a href = 'https://www.linkedin.com/in/andrei-wonge/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-
 
 <h2> Stuff I worked on last week  </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
