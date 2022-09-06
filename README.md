@@ -25,8 +25,10 @@
 - 💬 Talk to me about Stata, R, Surveys, Sampling, Impact Evaluation, Text as Data, Quantification of Qualitative data, Spatial Data Science, Freelancing Opportunities
 
 <h2> Skills </h2>
-- 🏋️ Project manager with extensive experience in implementation of Impact Evaluations.
-- 📈 Social information management, including generation, wrangling, visualization, monitoring, and presentation of data.
+   
+- 🏋️ Project manager with extensive experience in implementation of Impact Evaluations.<br>
+
+- 📈 Social information management, including generation, wrangling, visualization, monitoring, and presentation of data.<br>
 
 <h2> My work </h2>
 Some examples of my work:
