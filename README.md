@@ -30,8 +30,8 @@
 - 📈 Social information management, including generation, wrangling, visualization, monitoring, and presentation of data.
 
 <h2> My work </h2>
-<p>Some examples of my work:</p>
-<p>&nbsp;</p>
+Some examples of my work:
+<br><br>
    - <a href="https://andrei-wonge.github.io/Spatial_notes/"> Spatial data wrangling and visualization</a>
    - <a href="https://github.com/Andrei-WongE/SDG_UIS_indicators_extractor"> Process automatization and functions</a>
    - <a href="https://github.com/Andrei-WongE/Randomization_Proyect-C"> Impact evaluation </a>
@@ -41,10 +41,8 @@
  
 <h2> Connect with me </h2>
 <a href = 'https://www.twitter.com/@Andrei_WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-
 <a href = 'https://www.github.com/Andrei-WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
- <a
+<a
     id="cy-effective-orcid-url"
     class="underline"
     href="https://orcid.org/0000-0001-8278-3149"
@@ -57,7 +55,6 @@
         alt="ORCID iD icon"/>
       <! -- https://orcid.org/0000-0001-8278-3149 -->
  </a>
-   
  <a href = 'https://www.linkedin.com/in/andrei-wonge/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
 
@@ -65,7 +62,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrei-WongE&show_icons=true&theme=omni&count_private=true&compact=True"/>
 </a>
-<br>
 
 
 <h2> My GitHub Stats </h2>
