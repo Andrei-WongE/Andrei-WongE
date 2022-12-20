@@ -24,9 +24,9 @@
 
 <h2> Skills </h2>
    
-- 🏋️ Project manager with extensive experience in implementation of Impact Evaluations.<br>
+- 🏋️ Project manager with extensive experience in implementation of Impact Assessments and Impact Evaluations.<br>
 
-- 📈 Social information management, including generation, wrangling, visualization, monitoring, and presentation of data.<br>
+- 📈 Social information governance, including generation, wrangling, visualization, monitoring, reporting and presentation of data.<br>
 
 <h2> My work </h2>
 Some examples of my work:
