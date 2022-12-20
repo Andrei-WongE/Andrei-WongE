@@ -14,11 +14,9 @@
 
 <h2> About Me </h2>
 
-- 💬 **Curretly looking for PhD opportunities**
-
 - 🔭 I’m currently working on My Blog, <a href="https://andrei-wonge.github.io/Spatial_notes/">Spatial Data Science Notebook</a>.
 
-- 🌱 I’m currently learning CSS, Bayesian Models 
+- 🌱 I’m currently learning CSS, Bayesian Modelling techniques applied to spatial data
 
 - 👯 I’m looking to collaborate on Projects, Workshops 
 
