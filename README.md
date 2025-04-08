@@ -31,6 +31,7 @@
 <h2> My work </h2>
 Some examples of my work:
 <br></br>
+   - <a href="https://github.com/Andrei-WongE/NUTS_environ_data/"> Spatial dataset creation </a><br>
    - <a href="https://andrei-wonge.github.io/Spatial_notes/"> Spatial data wrangling and visualization</a><br>
    - <a href="https://github.com/Andrei-WongE/SDG_UIS_indicators_extractor"> Process automatization and functions</a><br>
    - <a href="https://github.com/Andrei-WongE/Randomization_Proyect-C"> Impact evaluation </a><br>
@@ -40,7 +41,7 @@ Some examples of my work:
 
  
 <h2> Connect with me </h2>
-<a href = 'https://www.twitter.com/@Andrei_WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://bsky.app/profile/andrei-wonge.bsky.social'> <img width = '32px' align= 'center' src="https://github.com/OzzyCzech/bluesky-logo/tree/main/dist/bluesky-icon.white.svg"/></a> 
 <a href = 'https://www.github.com/Andrei-WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  <a href = 'https://www.linkedin.com/in/andrei-wonge/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a
