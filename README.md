@@ -41,7 +41,7 @@ Some examples of my work:
 
  
 <h2> Connect with me </h2>
-<a href = 'https://bsky.app/profile/andrei-wonge.bsky.social'> <img width = '32px' align= 'center' src="https://github.com/OzzyCzech/bluesky-logo/tree/main/dist/bluesky-icon.white.svg"/></a> 
+<a href = 'https://bsky.app/profile/andrei-wonge.bsky.social'> <img width = '32px' align= 'center' src="https://github.com/OzzyCzech/bluesky-logo/tree/main/dist/bluesky-icon.blue.svg"/></a> 
 <a href = 'https://www.github.com/Andrei-WongE'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  <a href = 'https://www.linkedin.com/in/andrei-wonge/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a
