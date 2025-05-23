@@ -65,6 +65,6 @@ Some examples of my work:
 
 <h2> My GitHub Stats </h2>
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-WongE&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,lua&theme=transparent&langs_count=10" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-WongE&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,lua&theme=dracula&langs_count=10" />
 
 <br>
