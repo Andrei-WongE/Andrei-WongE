@@ -59,7 +59,7 @@ Some examples of my work:
 
 <h2> Stuff I worked on last week  </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrei-WongE&show_icons=true&theme=onedark&count_private=true&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrei-WongE&show_icons=true&theme=onedark&count_private=true&compact=True&rank_icon=percentile"/>
 </a>
 
 
@@ -68,4 +68,3 @@ Some examples of my work:
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-WongE&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,lua&theme=transparent&langs_count=10" />
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
