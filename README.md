@@ -59,14 +59,13 @@ Some examples of my work:
 
 <h2> Stuff I worked on last week  </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrei-WongE&show_icons=true&theme=omni&count_private=true&compact=True"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrei-WongE&show_icons=true&theme=onedark&count_private=true&compact=True"/>
 </a>
 
 
 <h2> My GitHub Stats </h2>
 
-![Metrics](https://metrics.lecoq.io/Andrei-WongE?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
-
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrei-WongE&size_weight=0.5&count_weight=0.5&layout=compact&hide=html,lua&theme=transparent&langs_count=10" />
 
 <br>
 <footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
