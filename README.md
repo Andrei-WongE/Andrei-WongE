@@ -59,7 +59,7 @@ Some examples of my work:
 
 <h2> Stuff I worked on last week  </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrei-WongE&show_icons=true&theme=onedark&count_private=true&compact=True&rank_icon=percentile"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Andrei-WongE&show_icons=true&theme=dracula&count_private=true&compact=True&rank_icon=github"/>
 </a>
 
 
