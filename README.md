@@ -6,7 +6,7 @@
 <h1> Hello Fellow < Digital Human/ > </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Andrei-WongE.Andrei-WongE)
+[![Hits](https://hits.sh/github.com/Andrei-WongE/Andrei-WongE/hits.svg)](https://hits.sh/github.com/Andrei-WongE/Andrei-WongE/hits/)
 
 </p>
 <div size='20px'> Hi! My name is Andrei Wong Espejo. Thanks for taking the time to view my GitHub Profile :smile:
