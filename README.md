@@ -14,7 +14,7 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on My Blog, <a href="https://andrei-wonge.github.io/Spatial_notes/">Spatial Data Science Notebook</a>.
+- 🔭 I’m currently working on My Blog, <a href="https://andrei-wonge.github.io/Spatial_notes/">Spatial Data Science Notebook</a> and <a href="https://andrei-wonge.github.io/Andrei-Wong.github.io"> website</a> 
 
 - 🌱 I’m currently learning CSS, Bayesian Modelling techniques applied to spatial data
 
