@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on <a href="https://andrei-wonge.github.io/Spatial_notes/"> my Spatial Data Science Notebook</a>, <a href="https://github.com/Andrei-WongE/geminiCLI_hooks_and_extensions-4research"> how to use Gemini CLI for research </a> and <a href="https://andrei-wonge.github.io/Andrei-Wong.github.io"> updating my website</a> 
 
-- 🌱 I’m currently learning CSS, Bayesian Modelling techniques applied to spatial data
+- 🌱 I’m currently learning how to use Geographic Foundation Models (geoAI), Bayesian Modelling techniques applied to spatial data
 
 - 👯 I’m looking to collaborate on Projects, Workshops 
 
